@@ -1,0 +1,2 @@
+# Results from the lexical analysis of crowd accident reporting
+This repository contains JSON files obtained through the lexical analysis of a corpus of news articles on crowd accidents. The primary purpose of this repository is to facilitate visualization using the VOSviewer app. For additional details about this project, related files, and documentation, please visit: https://doi.org/10.5281/zenodo.8347229 .
