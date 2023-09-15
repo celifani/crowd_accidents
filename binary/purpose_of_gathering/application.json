@@ -1,0 +1,296 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 1,
+				"label": "gate",
+				"x": -0.0340,
+				"y": -0.5524,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 43.0000,
+					"Occurrences": 7.0000
+				}
+			},
+			{
+				"id": 2,
+				"label": "ground",
+				"x": -0.5410,
+				"y": -0.5054,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 38.0000,
+					"Occurrences": 6.0000
+				}
+			},
+			{
+				"id": 3,
+				"label": "person",
+				"x": 0.8193,
+				"y": -0.0330,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 35.0000,
+					"Occurrences": 6.0000
+				}
+			},
+			{
+				"id": 4,
+				"label": "place",
+				"x": 0.5629,
+				"y": 0.5357,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 35.0000,
+					"Occurrences": 6.0000
+				}
+			},
+			{
+				"id": 5,
+				"label": "police",
+				"x": -0.8197,
+				"y": -0.0825,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 33.0000,
+					"Occurrences": 5.0000
+				}
+			},
+			{
+				"id": 6,
+				"label": "recruitment drive",
+				"x": -0.6090,
+				"y": 0.3415,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 38.0000,
+					"Occurrences": 6.0000
+				}
+			},
+			{
+				"id": 7,
+				"label": "situation",
+				"x": -0.1732,
+				"y": 0.6964,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 32.0000,
+					"Occurrences": 5.0000
+				}
+			},
+			{
+				"id": 8,
+				"label": "stampede",
+				"x": 0.1429,
+				"y": 0.0879,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 46.0000,
+					"Occurrences": 8.0000
+				}
+			},
+			{
+				"id": 9,
+				"label": "thousand",
+				"x": 0.6518,
+				"y": -0.4883,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 30.0000,
+					"Occurrences": 5.0000
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 1,
+				"target_id": 2,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 3,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 4,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 5,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 6,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 7,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 8,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 9,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 3,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 4,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 5,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 6,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 7,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 8,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 9,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 4,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 5,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 6,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 7,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 8,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 9,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 5,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 6,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 7,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 8,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 9,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 6,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 7,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 8,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 9,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 7,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 8,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 9,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 8,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 9,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 9,
+				"strength": 5.0000
+			}
+		]
+	}
+}

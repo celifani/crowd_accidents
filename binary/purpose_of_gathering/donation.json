@@ -1,0 +1,2525 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 1,
+				"label": "agency",
+				"x": -0.0530,
+				"y": -0.3365,
+				"cluster": 1,
+				"weights": {
+					"Links": 30.0000,
+					"Total link strength": 135.0000,
+					"Occurrences": 11.0000
+				}
+			},
+			{
+				"id": 2,
+				"label": "aid",
+				"x": -0.8976,
+				"y": -0.6757,
+				"cluster": 1,
+				"weights": {
+					"Links": 24.0000,
+					"Total link strength": 70.0000,
+					"Occurrences": 5.0000
+				}
+			},
+			{
+				"id": 3,
+				"label": "body",
+				"x": 0.4816,
+				"y": 0.2839,
+				"cluster": 2,
+				"weights": {
+					"Links": 29.0000,
+					"Total link strength": 84.0000,
+					"Occurrences": 7.0000
+				}
+			},
+			{
+				"id": 4,
+				"label": "child",
+				"x": -0.9266,
+				"y": 0.0929,
+				"cluster": 1,
+				"weights": {
+					"Links": 28.0000,
+					"Total link strength": 96.0000,
+					"Occurrences": 7.0000
+				}
+			},
+			{
+				"id": 5,
+				"label": "clothe",
+				"x": -0.3628,
+				"y": 0.6749,
+				"cluster": 2,
+				"weights": {
+					"Links": 28.0000,
+					"Total link strength": 98.0000,
+					"Occurrences": 8.0000
+				}
+			},
+			{
+				"id": 6,
+				"label": "clothing",
+				"x": -0.7001,
+				"y": 0.4437,
+				"cluster": 1,
+				"weights": {
+					"Links": 27.0000,
+					"Total link strength": 83.0000,
+					"Occurrences": 6.0000
+				}
+			},
+			{
+				"id": 7,
+				"label": "crowd",
+				"x": 0.4162,
+				"y": -0.1261,
+				"cluster": 3,
+				"weights": {
+					"Links": 30.0000,
+					"Total link strength": 121.0000,
+					"Occurrences": 10.0000
+				}
+			},
+			{
+				"id": 8,
+				"label": "crush",
+				"x": 0.7806,
+				"y": -0.1824,
+				"cluster": 3,
+				"weights": {
+					"Links": 27.0000,
+					"Total link strength": 76.0000,
+					"Occurrences": 8.0000
+				}
+			},
+			{
+				"id": 9,
+				"label": "death",
+				"x": -0.7886,
+				"y": -0.1140,
+				"cluster": 1,
+				"weights": {
+					"Links": 29.0000,
+					"Total link strength": 112.0000,
+					"Occurrences": 9.0000
+				}
+			},
+			{
+				"id": 10,
+				"label": "distribution",
+				"x": 0.1354,
+				"y": -0.7851,
+				"cluster": 3,
+				"weights": {
+					"Links": 28.0000,
+					"Total link strength": 129.0000,
+					"Occurrences": 11.0000
+				}
+			},
+			{
+				"id": 11,
+				"label": "event",
+				"x": -0.0197,
+				"y": 0.7388,
+				"cluster": 2,
+				"weights": {
+					"Links": 23.0000,
+					"Total link strength": 41.0000,
+					"Occurrences": 5.0000
+				}
+			},
+			{
+				"id": 12,
+				"label": "food",
+				"x": -0.5671,
+				"y": -0.4909,
+				"cluster": 1,
+				"weights": {
+					"Links": 28.0000,
+					"Total link strength": 96.0000,
+					"Occurrences": 9.0000
+				}
+			},
+			{
+				"id": 13,
+				"label": "food aid",
+				"x": 1.0226,
+				"y": -0.6313,
+				"cluster": 3,
+				"weights": {
+					"Links": 20.0000,
+					"Total link strength": 50.0000,
+					"Occurrences": 5.0000
+				}
+			},
+			{
+				"id": 14,
+				"label": "home",
+				"x": -0.2250,
+				"y": 0.9168,
+				"cluster": 2,
+				"weights": {
+					"Links": 27.0000,
+					"Total link strength": 80.0000,
+					"Occurrences": 7.0000
+				}
+			},
+			{
+				"id": 15,
+				"label": "hundred",
+				"x": 0.6536,
+				"y": 0.0066,
+				"cluster": 3,
+				"weights": {
+					"Links": 28.0000,
+					"Total link strength": 61.0000,
+					"Occurrences": 5.0000
+				}
+			},
+			{
+				"id": 16,
+				"label": "incident",
+				"x": -0.0189,
+				"y": -0.7813,
+				"cluster": 3,
+				"weights": {
+					"Links": 29.0000,
+					"Total link strength": 91.0000,
+					"Occurrences": 9.0000
+				}
+			},
+			{
+				"id": 17,
+				"label": "man",
+				"x": -0.8114,
+				"y": 0.2600,
+				"cluster": 1,
+				"weights": {
+					"Links": 29.0000,
+					"Total link strength": 91.0000,
+					"Occurrences": 7.0000
+				}
+			},
+			{
+				"id": 18,
+				"label": "monday",
+				"x": 0.6337,
+				"y": 0.5808,
+				"cluster": 2,
+				"weights": {
+					"Links": 27.0000,
+					"Total link strength": 69.0000,
+					"Occurrences": 8.0000
+				}
+			},
+			{
+				"id": 19,
+				"label": "person",
+				"x": 0.2630,
+				"y": 0.3196,
+				"cluster": 2,
+				"weights": {
+					"Links": 30.0000,
+					"Total link strength": 200.0000,
+					"Occurrences": 19.0000
+				}
+			},
+			{
+				"id": 20,
+				"label": "place",
+				"x": -0.2055,
+				"y": -0.4678,
+				"cluster": 1,
+				"weights": {
+					"Links": 29.0000,
+					"Total link strength": 69.0000,
+					"Occurrences": 5.0000
+				}
+			},
+			{
+				"id": 21,
+				"label": "police",
+				"x": 0.4789,
+				"y": 0.6932,
+				"cluster": 2,
+				"weights": {
+					"Links": 29.0000,
+					"Total link strength": 111.0000,
+					"Occurrences": 11.0000
+				}
+			},
+			{
+				"id": 22,
+				"label": "polouse",
+				"x": 0.8650,
+				"y": 0.3487,
+				"cluster": 2,
+				"weights": {
+					"Links": 27.0000,
+					"Total link strength": 66.0000,
+					"Occurrences": 6.0000
+				}
+			},
+			{
+				"id": 23,
+				"label": "ramadan",
+				"x": 0.0725,
+				"y": 0.9816,
+				"cluster": 2,
+				"weights": {
+					"Links": 24.0000,
+					"Total link strength": 55.0000,
+					"Occurrences": 5.0000
+				}
+			},
+			{
+				"id": 24,
+				"label": "report",
+				"x": -0.5200,
+				"y": -0.6527,
+				"cluster": 1,
+				"weights": {
+					"Links": 28.0000,
+					"Total link strength": 84.0000,
+					"Occurrences": 7.0000
+				}
+			},
+			{
+				"id": 25,
+				"label": "stampede",
+				"x": 0.1067,
+				"y": 0.1233,
+				"cluster": 2,
+				"weights": {
+					"Links": 30.0000,
+					"Total link strength": 245.0000,
+					"Occurrences": 24.0000
+				}
+			},
+			{
+				"id": 26,
+				"label": "sunday",
+				"x": 0.6334,
+				"y": -0.6935,
+				"cluster": 3,
+				"weights": {
+					"Links": 26.0000,
+					"Total link strength": 52.0000,
+					"Occurrences": 5.0000
+				}
+			},
+			{
+				"id": 27,
+				"label": "thousand",
+				"x": -0.2667,
+				"y": -0.1227,
+				"cluster": 1,
+				"weights": {
+					"Links": 29.0000,
+					"Total link strength": 120.0000,
+					"Occurrences": 10.0000
+				}
+			},
+			{
+				"id": 28,
+				"label": "time",
+				"x": -0.5622,
+				"y": -0.1919,
+				"cluster": 1,
+				"weights": {
+					"Links": 29.0000,
+					"Total link strength": 106.0000,
+					"Occurrences": 9.0000
+				}
+			},
+			{
+				"id": 29,
+				"label": "victim",
+				"x": 0.7429,
+				"y": -0.4121,
+				"cluster": 3,
+				"weights": {
+					"Links": 29.0000,
+					"Total link strength": 75.0000,
+					"Occurrences": 7.0000
+				}
+			},
+			{
+				"id": 30,
+				"label": "week",
+				"x": -0.4560,
+				"y": 0.2682,
+				"cluster": 1,
+				"weights": {
+					"Links": 27.0000,
+					"Total link strength": 80.0000,
+					"Occurrences": 7.0000
+				}
+			},
+			{
+				"id": 31,
+				"label": "woman",
+				"x": 0.0950,
+				"y": -0.0693,
+				"cluster": 3,
+				"weights": {
+					"Links": 30.0000,
+					"Total link strength": 200.0000,
+					"Occurrences": 17.0000
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 1,
+				"target_id": 2,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 3,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 4,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 5,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 6,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 7,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 8,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 9,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 10,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 11,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 12,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 13,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 14,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 15,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 16,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 17,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 18,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 19,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 20,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 21,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 22,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 23,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 24,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 25,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 26,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 27,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 28,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 29,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 30,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 31,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 3,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 4,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 5,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 6,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 7,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 8,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 9,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 10,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 12,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 13,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 14,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 15,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 16,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 17,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 19,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 20,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 24,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 25,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 27,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 28,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 30,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 31,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 4,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 5,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 6,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 7,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 8,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 9,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 10,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 11,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 13,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 14,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 15,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 16,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 17,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 18,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 19,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 20,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 21,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 22,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 23,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 24,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 25,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 26,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 27,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 28,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 29,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 30,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 31,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 5,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 6,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 7,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 9,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 10,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 11,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 12,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 14,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 15,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 16,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 17,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 18,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 19,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 20,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 21,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 23,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 24,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 25,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 27,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 28,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 30,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 31,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 6,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 7,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 9,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 10,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 11,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 12,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 14,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 15,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 16,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 17,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 18,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 19,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 21,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 22,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 23,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 24,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 25,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 26,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 27,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 28,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 30,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 31,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 7,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 8,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 9,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 10,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 11,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 12,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 14,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 15,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 16,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 17,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 19,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 20,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 21,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 22,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 23,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 24,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 25,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 27,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 28,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 30,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 31,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 8,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 9,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 10,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 11,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 12,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 13,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 14,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 15,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 16,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 17,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 18,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 19,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 20,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 21,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 22,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 23,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 24,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 25,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 26,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 27,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 28,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 29,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 30,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 31,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 9,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 10,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 11,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 12,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 13,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 15,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 16,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 17,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 18,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 19,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 21,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 22,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 23,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 24,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 25,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 26,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 27,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 28,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 29,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 30,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 31,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 10,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 11,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 12,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 14,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 15,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 16,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 17,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 18,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 19,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 20,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 21,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 24,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 25,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 26,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 27,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 28,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 30,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 31,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 12,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 13,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 14,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 15,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 16,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 17,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 18,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 19,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 20,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 21,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 22,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 24,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 25,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 26,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 27,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 28,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 29,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 30,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 31,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 12,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 14,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 16,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 17,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 18,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 19,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 21,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 25,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 28,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 30,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 31,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 13,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 14,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 15,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 16,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 17,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 18,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 19,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 20,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 21,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 24,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 25,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 27,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 28,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 29,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 30,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 31,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 15,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 16,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 18,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 19,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 21,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 22,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 25,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 26,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 27,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 29,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 31,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 15,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 16,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 17,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 18,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 19,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 21,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 22,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 23,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 25,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 27,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 30,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 31,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 16,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 17,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 18,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 19,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 21,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 22,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 23,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 25,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 27,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 28,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 31,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 17,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 19,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 20,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 21,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 24,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 25,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 26,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 27,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 28,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 29,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 30,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 31,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 18,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 19,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 20,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 21,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 23,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 24,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 25,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 27,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 28,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 30,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 31,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 19,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 20,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 21,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 22,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 25,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 27,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 30,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 31,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 20,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 21,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 22,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 23,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 24,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 25,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 26,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 27,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 28,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 29,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 30,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 31,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 21,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 22,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 24,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 25,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 27,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 28,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 30,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 31,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 22,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 23,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 25,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 27,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 28,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 29,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 30,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 31,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 23,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 25,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 27,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 30,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 31,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 25,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 27,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 28,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 30,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 31,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 25,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 27,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 28,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 30,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 31,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 26,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 27,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 28,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 29,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 30,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 31,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 27,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 30,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 31,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 28,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 30,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 31,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 30,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 31,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 31,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 31,
+				"strength": 6.0000
+			}
+		]
+	}
+}

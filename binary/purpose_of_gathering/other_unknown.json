@@ -1,0 +1,197 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 1,
+				"label": "building",
+				"x": -0.7719,
+				"y": -0.2879,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 23.0000,
+					"Occurrences": 5.0000
+				}
+			},
+			{
+				"id": 2,
+				"label": "person",
+				"x": -0.0009,
+				"y": -0.6842,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 33.0000,
+					"Occurrences": 8.0000
+				}
+			},
+			{
+				"id": 3,
+				"label": "police",
+				"x": -0.1575,
+				"y": 0.6467,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 25.0000,
+					"Occurrences": 5.0000
+				}
+			},
+			{
+				"id": 4,
+				"label": "polouse",
+				"x": -0.5712,
+				"y": 0.2891,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 25.0000,
+					"Occurrences": 5.0000
+				}
+			},
+			{
+				"id": 5,
+				"label": "stampede",
+				"x": 0.1504,
+				"y": -0.2426,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 33.0000,
+					"Occurrences": 8.0000
+				}
+			},
+			{
+				"id": 6,
+				"label": "time",
+				"x": 0.8374,
+				"y": -0.1939,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 22.0000,
+					"Occurrences": 5.0000
+				}
+			},
+			{
+				"id": 7,
+				"label": "witness",
+				"x": 0.5137,
+				"y": 0.4729,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 25.0000,
+					"Occurrences": 5.0000
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 1,
+				"target_id": 2,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 3,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 4,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 5,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 6,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 7,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 3,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 4,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 5,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 6,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 7,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 4,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 5,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 6,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 7,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 5,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 6,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 7,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 6,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 7,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 7,
+				"strength": 4.0000
+			}
+		]
+	}
+}
